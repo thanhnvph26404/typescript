@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "iphone 11",
+      "price": "435",
+      "id": 6
+    },
+    {
+      "name": "iphoneg",
+      "price": "435",
+      "id": 7
+    },
+    {
+      "name": "iphone",
+      "price": "324",
+      "id": 8
+    }
+  ]
+}
